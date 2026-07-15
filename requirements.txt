@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+httpx
+curl_cffi
+pydantic
+h2
